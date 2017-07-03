@@ -1,5 +1,15 @@
-# Estrutura-de-dados---Python
+﻿# Estrutura-de-dados-Python
+
+
 Esse repositório contém diversos tipos de estruturas de dados feitos em python.
+
+
+
+<ul>
+<li>Deck/Deque</li>
+<li>Queue/Fila</li>
+<li>Stack/Pilha</li>
+</ul>
 
 <b>Desenvolvido por William da Rosa Garcia.</b>
 
